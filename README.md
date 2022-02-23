@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+This is Kai Zhang, here are some tips you may be interested...
+
+- 🔭 I’m currently a CS PhD student at WPI.
+- 🌱 I’m currently foucsing on graph-based algorithm for salient information extraction and explainable generation.
+- 👯 I’m looking to collaborate on 👆.
+- 🤔 I’m always looking for something exciting to explore.
+- 💬 Ask me about how's PhD life...
+- 📫 How to reach me: kzhang8@wpi.edu / kz8@iu.edu
+- 😄 Pronouns: We can schedule a zoom meeting for this if you're really interested in hahaha...
+- ⚡ Fun fact: Attention is not all you need.
+
+![](https://github-readme-stats.vercel.app/api?username=MatthewKKai&theme=dark)
+
 <!--
 **MatthewKKai/MatthewKKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

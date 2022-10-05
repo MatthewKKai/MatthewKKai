@@ -9,7 +9,7 @@ This is Kai Zhang, here are some tips you may be interested...
 - 💬 Ask me about everything I open-sourced.
 - 📫 How to reach me: kzhang8@wpi.edu / kz8@iu.edu
 - 😄 Pronouns: We can schedule a zoom meeting for this if you're really interested in this hahaha
-- ⚡ Fun fact: Attention is not all you need.
+- ⚡ Fun fact: Attention is not all you need!
 
 ![](https://github-readme-stats.vercel.app/api?username=MatthewKKai&theme=dark)
 

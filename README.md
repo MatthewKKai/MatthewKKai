@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Kai Zhang, here are some tips you may be interested...
+This is Kai Zhang, here are some tips you may be interested....
 
 - 🔭 I’m currently a CS PhD student at WPI.
 - 🌱 I’m currently foucsing on graph-based algorithm for salient information extraction and explainable generation.

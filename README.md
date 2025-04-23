@@ -2,14 +2,14 @@
 
 This is Kai Zhang, here are some tips you may be interested...
 
-- 🔭 I’m currently a CS PhD student at WPI.
-- 🌱 I’m currently foucsing on graph-based algorithm for salient information extraction and explainable generation.
-- 👯 I’m currently actively looking for NLP related summer interns.
+- 🔭 I have a PhD in CS from WPI.
+- 👯 I worked as a Research Intern at Google AIR (Affliated with DeepMind)/Alibaba Damo Academy and will continue my journal at Meta Reality Lab.
+- 🌱 I’m currently foucsing on on-device intelligence, memory-based LLM personalization.
 - 🤔 I’m always looking for something exciting to explore.
-- 💬 Ask me about everything I open-sourced.
+- 💬 Research to me is more like work not interests, even though I enjoy exploring something new...
 - 📫 How to reach me: kzhang8@wpi.edu / kz8@iu.edu
-- 😄 Pronouns: We can schedule a zoom meeting for this if you're really interested in this hahaha
-- ⚡ Fun fact: Attention is not all you need!
+- 😄 Hope my work can be a tiny help to you...
+- ⚡ Fun fact: Not every researcher is doing research.
 
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewKKai&show_icons=true&theme=radical)
 
